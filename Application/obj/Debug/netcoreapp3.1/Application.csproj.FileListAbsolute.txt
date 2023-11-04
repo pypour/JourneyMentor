@@ -1,0 +1,13 @@
+D:\Work\GitHub\JourneyMentor\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Work\GitHub\JourneyMentor\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Work\GitHub\JourneyMentor\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Work\GitHub\JourneyMentor\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Work\GitHub\JourneyMentor\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Work\GitHub\JourneyMentor\Application\obj\Debug\netcoreapp3.1\Application.pdb
